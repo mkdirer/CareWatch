@@ -2,7 +2,7 @@
 
 CareWatch is a user-friendly Kotlin app that simplifies medication management, connects you with healthcare professionals through chat, and allows you to customize your user profile. Originally developed for the "Hackathon" competition, it's the perfect tool for staying on top of your healthcare routine.
 
-## Resources for Getting Started
+## Resources for Getting Started 
 
 - [Kotlin Docs](https://kotlinlang.org/docs/tutorials/getting-started.html)
 - [Kotlin Codelabs](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
