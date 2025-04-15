@@ -14,4 +14,3 @@ CareWatch is a user-friendly Kotlin app that simplifies medication management, c
 - **Kotlin Navigation Component** [Learn More](https://developer.android.com/guide/navigation/navigation-getting-started)
 - **Kotlin Coroutines** [Learn More](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 - **Kotlin Room Database** [Learn More](https://developer.android.com/training/data-storage/room)
-
